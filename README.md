@@ -1,2 +1,5 @@
-# Warsztat_modul_1
-Warsztat
+# Sit On Chair 
+## Project presenting furniture company offert
+### Built with:
+#### - HTML
+#### - CSS
